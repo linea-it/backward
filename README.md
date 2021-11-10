@@ -1,4 +1,4 @@
-# LSST Brazil 2021
+# Curso Git Básico
 
 ## Installation
 
